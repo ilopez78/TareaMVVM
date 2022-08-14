@@ -1,0 +1,16 @@
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\bin\Debug\netstandard2.0\TareaMVVM.deps.json
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\bin\Debug\netstandard2.0\TareaMVVM.dll
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\bin\Debug\netstandard2.0\TareaMVVM.pdb
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\TareaMVVM.csproj.AssemblyReference.cache
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\TareaMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\Views\EmployesPage.xaml.g.cs
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\Views\ListEmployees.xaml.g.cs
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\TareaMVVM.AssemblyInfoInputs.cache
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\TareaMVVM.AssemblyInfo.cs
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\TareaMVVM.csproj.CoreCompileInputs.cache
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\TareaMVVM.dll
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\refint\TareaMVVM.dll
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\TareaMVVM.pdb
+C:\Users\ivisl\source\repos\TareaMVVM\TareaMVVM\obj\Debug\netstandard2.0\ref\TareaMVVM.dll
